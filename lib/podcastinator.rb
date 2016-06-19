@@ -8,7 +8,6 @@ require "yaml"
 require "uri"
 
 require "nokogiri"
-require "taglib"
 require "mime-types"
 
 require "podcastinator/version"
